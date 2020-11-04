@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <quiz>
-  <question type="paslechoix">
+
+  <question type="multichoica">
+
   	<name>
   		<text>Demo question à choix multiples</text>
   	</name>
